@@ -34,9 +34,13 @@
 # print(int(a) + b)
 
 data = ["10", "20.5", 30, "40"]
-data1=["]
+data1=[]
 
 for i in data:
+       data1.append(float(i))
+
+print(data1)
     
+
 
 
