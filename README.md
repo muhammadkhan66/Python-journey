@@ -1,1 +1,1 @@
-# Python-journey
+# Python_from_scratch
